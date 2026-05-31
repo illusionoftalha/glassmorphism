@@ -4,7 +4,7 @@ A sleek UI design project built with **HTML & CSS** that demonstrates the glassm
 
 ## 🔗 Live Demo
 
-👉 [View Live](https://talhsheikh.github.io/glassmorphism/)
+👉 [View Live]([https://talhsheikh.github.io/glassmorphism/](https://illusionoftalha.github.io/glassmorphism/))
 
 ## 📸 Preview
 
